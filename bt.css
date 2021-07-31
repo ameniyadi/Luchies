@@ -1,0 +1,33 @@
+*{
+	margin: auto;
+	padding: auto;
+	font-family: serif;
+}
+.Happy{
+	width: 100%;
+	height: 150vh;
+	background-image: url(cakes.jpg);
+	background-position: center;
+	background-size: contain;
+}
+.haps{
+	width: 60%;
+	padding: 35px 0;
+	margin: auto;
+	display: inline-flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.LOGO{
+	width: 120px;
+	cursor: pointer;
+}
+.haps ul{
+	display: inline-flex;
+	margin: 50px;
+}
+.haps ul li{
+	list-style: none;
+	margin: 0 20px;
+	color: #c71585;
+}
